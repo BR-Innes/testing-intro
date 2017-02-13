@@ -1,0 +1,6 @@
+function result = hasWon(board, player)
+% hasWon: has player won on board?
+% require: player = 'X' or 'O'
+% require: board 3x3 matrix, with each element in ['X', 'O', '.']
+% promise: result = true if player has won otherwise false
+end
